@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   <div>
-      <header id="header-component">Newton School</header>
+      <h1 id="header-component">Newton School</h1>
    </div>
 }
 
