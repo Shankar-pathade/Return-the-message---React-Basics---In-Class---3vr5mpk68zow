@@ -1,8 +1,8 @@
 import React from 'react'
 
 const Header = () => {
-  <div id="header-component">
-      <h1>Newton School</h1>
+  <div>
+      <header id="header-component">Newton School</header>
    </div>
 }
 
