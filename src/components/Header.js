@@ -1,9 +1,11 @@
 import React from 'react'
 
 const Header = () => {
-  <div id="header-component">
-      <h6>Newton School</h6>
-   </div>
+  return (
+    <div id="header-component">
+      <h1>Newton School</h1>
+    </div>
+  );
 }
 
 
